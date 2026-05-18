@@ -1,51 +1,53 @@
 {
-    "ignorePatterns": [
-          { "pattern": "^https?://(www\\.)?datacamp\\.com" },
-          { "pattern": "^https?://(www\\.)?quora\\.com" },
-          { "pattern": "^https?://(www\\.)?reddit\\.com" },
-          { "pattern": "^https?://(www\\.)?manning\\.com" },
-          { "pattern": "^https?://(www\\.)?springboard\\.com" },
-          { "pattern": "^https?://(www\\.)?tensorflow\\.org" },
-          { "pattern": "^https?://(www\\.)?npmjs\\.com" },
-          { "pattern": "^https?://(www\\.)?simonandschuster\\.com" },
-          { "pattern": "^https?://journals\\.sagepub\\.com" },
-          { "pattern": "^https?://(www\\.)?journals\\.elsevier\\.com" },
-          { "pattern": "^https?://hastie\\.su\\.domains" },
-          { "pattern": "^https?://towardsdatascience\\.com" },
-          { "pattern": "^https?://(www\\.)?dataconomy\\.com" },
-          { "pattern": "^https?://(www\\.)?nbshare\\.io" },
-          { "pattern": "^https?://kandi\\.openweaver\\.com" },
-          { "pattern": "^https?://variancecharts\\.com" },
-          { "pattern": "^https?://(www\\.)?datatau\\.com" },
-          { "pattern": "^https?://blog\\.revolutionanalytics\\.com" },
-          { "pattern": "^https?://blog\\.floydhub\\.com" },
-          { "pattern": "^https?://(www\\.)?cognilytica\\.com" },
-          { "pattern": "^https?://community\\.alteryx\\.com" },
-          { "pattern": "^https?://datascopeanalytics\\.com" },
-          { "pattern": "^https?://akhilworld\\.hashnode\\.dev" },
-          { "pattern": "^https?://(www\\.)?datamechanics\\.co" },
-          { "pattern": "^https?://(www\\.)?gnu\\.org" },
-          { "pattern": "^https?://synthical\\.com" },
-          { "pattern": "^https?://(www\\.)?thedatasciencehandbook\\.com" },
-          { "pattern": "^https?://www0\\.cs\\.ucl\\.ac\\.uk" },
-          { "pattern": "^https?://harvarddatascience\\.com" },
-          { "pattern": "^https?://(www\\.)?chioka\\.in" },
-          { "pattern": "^https?://(www\\.)?innocentive\\.com" },
-          { "pattern": "^https?://datacite\\.org" }
-    ],
-    "httpHeaders": [
-          {
-                  "urls": ["https://", "http://"],
-                  "headers": {
-                            "User-Agent": "Mozilla/5.0 (compatible; markdown-link-check)",
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                            "Accept-Language": "en-US,en;q=0.9"
-                  }
-          }
-    ],
-    "timeout": "20s",
-    "retryOn429": true,
-    "retryCount": 5,
-    "fallbackRetryDelay": "30s",
-    "aliveStatusCodes": [200, 206, 301, 302, 303, 307, 308, 401, 403, 429, 500, 503]
+  "ignorePatterns": [
+    { "pattern": "^https?://(www\\.)?datacamp\\.com" },
+    { "pattern": "^https?://(www\\.)?quora\\.com" },
+    { "pattern": "^https?://(www\\.)?reddit\\.com" },
+    { "pattern": "^https?://(www\\.)?manning\\.com" },
+    { "pattern": "^https?://(www\\.)?springboard\\.com" },
+    { "pattern": "^https?://(www\\.)?tensorflow\\.org" },
+    { "pattern": "^https?://(www\\.)?npmjs\\.com" },
+    { "pattern": "^https?://(www\\.)?simonandschuster\\.com" },
+    { "pattern": "^https?://journals\\.sagepub\\.com" },
+    { "pattern": "^https?://(www\\.)?journals\\.elsevier\\.com" },
+    { "pattern": "^https?://hastie\\.su\\.domains" },
+    { "pattern": "^https?://towardsdatascience\\.com" },
+    { "pattern": "^https?://(www\\.)?dataconomy\\.com" },
+    { "pattern": "^https?://(www\\.)?nbshare\\.io" },
+    { "pattern": "^https?://kandi\\.openweaver\\.com" },
+    { "pattern": "^https?://variancecharts\\.com" },
+    { "pattern": "^https?://(www\\.)?datatau\\.com" },
+    { "pattern": "^https?://blog\\.revolutionanalytics\\.com" },
+    { "pattern": "^https?://blog\\.floydhub\\.com" },
+    { "pattern": "^https?://(www\\.)?cognilytica\\.com" },
+    { "pattern": "^https?://community\\.alteryx\\.com" },
+    { "pattern": "^https?://datascopeanalytics\\.com" },
+    { "pattern": "^https?://akhilworld\\.hashnode\\.dev" },
+    { "pattern": "^https?://(www\\.)?datamechanics\\.co" },
+    { "pattern": "^https?://(www\\.)?gnu\\.org" },
+    { "pattern": "^https?://synthical\\.com" },
+    { "pattern": "^https?://(www\\.)?thedatasciencehandbook\\.com" },
+    { "pattern": "^https?://www0\\.cs\\.ucl\\.ac\\.uk" },
+    { "pattern": "^https?://harvarddatascience\\.com" },
+    { "pattern": "^https?://(www\\.)?chioka\\.in" },
+    { "pattern": "^https?://(www\\.)?innocentive\\.com" },
+    { "pattern": "^https?://datacite\\.org" },
+    { "pattern": "^https?://(www\\.)?r2d3\\.us" },
+    { "pattern": "^https?://fred\\.stlouisfed\\.org" }
+  ],
+  "httpHeaders": [
+    {
+      "urls": ["https://", "http://"],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; markdown-link-check)",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9"
+      }
+    }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 5,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 202, 206, 301, 302, 303, 307, 308, 401, 403, 429, 500, 503]
 }

@@ -135,7 +135,7 @@ Please, contribute about "agents"
 
 ### Tools
 - [Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
-- [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support. [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
+- [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support.
 ### Research & Knowledge Retrieval
 - [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub](https://github.com/connerlambden/bgpt-mcp)
 
@@ -153,7 +153,6 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 ### Tutorials
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [DataCamp Cheatsheets](https://www.datacamp.com/cheat-sheet) Cheatsheets for data science.
@@ -182,7 +181,6 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
 - [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
 - [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
-- [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
 - [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W&B
 - [Python for Data Science by Scaler](https://www.scaler.com/topics/course/python-for-data-science/) - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
 - [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
@@ -499,7 +497,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [highcarts](https://www.highcharts.com/)
 - [import.io](https://www.import.io/)
 - [Matplotlib](https://matplotlib.org/)
-- [nvd3](https://nvd3.org/)
 - [Netron](https://github.com/lutzroeder/netron)
 - [Openrefine](https://openrefine.org/)
 - [plot.ly](https://plot.ly/)
@@ -520,7 +517,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [TensorWatch](https://github.com/microsoft/tensorwatch)
 - [geomap](https://pypi.org/project/geomap/)
 - [Dash](https://plotly.com/dash/)
-- [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com](https://github.com/TerryFYL/metareview)
+- [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export.
 
 ### Miscellaneous Tools
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -1186,7 +1183,6 @@ Some data mining competition platforms
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 - [Data Science Cartoons](https://www.cartoonstock.com/directory/d/data_science.asp)
-- [Data Science: The XKCD Edition](https://davidlindelof.com/data-science-the-xkcd-edition/)
 
 ## Other Awesome Lists
 
