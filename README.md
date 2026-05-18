@@ -710,7 +710,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
 - [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
-- [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early Access
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
 - [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
@@ -735,7 +734,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download 
 - [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430) 
 - [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early Access
-- [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early Access
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Download Page
 - [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 - [Unifying Business, Data, and Code: Designing Data Products with JSON Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
@@ -800,7 +798,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings Data Sciene
 - [Prash Chan](https://www.mdmgeek.com/) - Tech Blog on Master Data Management And Every Buzz Surrounding It
 - [Clare Corthell](http://datasciencemasters.org/) - The Open Source Data Science Masters
-- [Datawrangling](http://www.datawrangling.org) by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE
 - [Quora Data Science](https://www.quora.com/topic/Data-Science) - Data Science Questions and Answers from experts
 - [Siah](https://openresearch.wordpress.com/) a PhD student at Berkeley
 - [Louis Dorard](https://www.ownml.co/blog/) a technology guy with a penchant for the web and for data, big and small
@@ -815,7 +812,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Meta Brown](https://www.metabrown.com/blog/) - Personal Blog
 - [Data Scientist](https://datascientists.com/) is building the data scientist culture.
 - [WhatSTheBigData](https://whatsthebigdata.com/) is some of, all of, or much more than the above and this blog explores its impact on information technology, the business world, government agencies, and our lives.
-- [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - Magnus Notitia
 - [New Data Scientist](https://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
 - [Harvard Data Science](https://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
 - [Data Science 101](https://ryanswanstrom.com/datascience101/) - Learning To Be A Data Scientist
@@ -1120,7 +1116,6 @@ Some data mining competition platforms
 
 - [Academic Torrents](https://academictorrents.com/)
 - [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
-- [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 - [United States Census Bureau](https://www.census.gov/)
@@ -1146,7 +1141,7 @@ Some data mining competition platforms
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
 - [research-quality data sets](https://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) by [Hilary Mason](https://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
 - [National Centers for Environmental Information](https://www.ncei.noaa.gov/)
-- [ClimateData.us](https://www.climatedata.us/) (related: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
+- [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/)
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - [MapLight](https://www.maplight.org/data-series) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
 - [GHDx](https://ghdx.healthdata.org/) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
