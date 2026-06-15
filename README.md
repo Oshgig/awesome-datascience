@@ -827,7 +827,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Data Science Lab](https://datasciencelab.wordpress.com/)
 - [Meaning of](https://www.kennybastani.com/)
 - [Adventures in Data Land](https://blog.smola.org)
-- [Dataclysm](https://theblog.okcupid.com/)
 - [FlowingData](https://flowingdata.com/) - Visualization and Statistics
 - [Calculated Risk](https://www.calculatedriskblog.com/)
 - [O'reilly Learning Blog](https://www.oreilly.com/content/topics/oreilly-learning/)
