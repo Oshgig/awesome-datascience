@@ -42,7 +42,9 @@
         { "pattern": "^https?://data-magnum\\.com" },
         { "pattern": "^https?://datastori\\.es" },
         { "pattern": "^https?://fred\\.stlouisfed\\.org" },
-        { "pattern": "^https?://(www\\.)?data\\.gov\\.in" }
+        { "pattern": "^https?://(www\\.)?data\\.gov\\.in" },
+        { "pattern": "^https?://(www\\.)?talkorigins\\.org" },
+        { "pattern": "^https?://data\\.ibb\\.gov\\.tr" }
     ],
     "httpHeaders": [
         {
