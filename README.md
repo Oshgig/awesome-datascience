@@ -135,7 +135,7 @@ Please, contribute about "agents"
 
 ### Tools
 - [Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
-- [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support. [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
+- [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support.
 ### Research & Knowledge Retrieval
 - [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub](https://github.com/connerlambden/bgpt-mcp)
 
@@ -153,7 +153,6 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 ### Tutorials
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [DataCamp Cheatsheets](https://www.datacamp.com/cheat-sheet) Cheatsheets for data science.
@@ -162,7 +161,6 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 - [Tutorials to get started on signal processing for machine learning](https://github.com/jinglescode/python-signal-processing)
-- [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 - [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 - [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
@@ -182,7 +180,6 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
 - [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
 - [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
-- [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
 - [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W&B
 - [Python for Data Science by Scaler](https://www.scaler.com/topics/course/python-for-data-science/) - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
 - [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
@@ -234,8 +231,6 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Programming with Julia](https://www.udemy.com/course/programming-with-julia/)
 - [Scaler Data Science & Machine Learning Program](https://www.scaler.com/data-science-course/)
 - [Data Science Skill Tree](https://labex.io/skilltrees/data-science)
-- [Data Science for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/data-science-368dbf)
-- [Machine Learning for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/machine-lear-36abfb)
 - [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science)
 -[Getting Started with Python for Data Science](https://www.codecademy.com/learn/getting-started-with-python-for-data-science) 
 - [Google Advanced Data Analytics Certificate](https://grow.google/data-analytics/) – Professional courses in data analysis, statistics, and machine learning fundamentals.
@@ -499,7 +494,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [highcarts](https://www.highcharts.com/)
 - [import.io](https://www.import.io/)
 - [Matplotlib](https://matplotlib.org/)
-- [nvd3](https://nvd3.org/)
 - [Netron](https://github.com/lutzroeder/netron)
 - [Openrefine](https://openrefine.org/)
 - [plot.ly](https://plot.ly/)
@@ -520,7 +514,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [TensorWatch](https://github.com/microsoft/tensorwatch)
 - [geomap](https://pypi.org/project/geomap/)
 - [Dash](https://plotly.com/dash/)
-- [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com](https://github.com/TerryFYL/metareview)
+- [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export.
 
 ### Miscellaneous Tools
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -899,7 +893,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Learning Machines 101](https://www.learningmachines101.com/)
 - [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 - [Linear Digressions](https://lineardigressions.com/)
-- [Not So Standard Deviations](https://nssdeviations.com/)
 - [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
@@ -1083,7 +1076,6 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Analytics Vidhya](https://datahack.analyticsvidhya.com/)
 - [InnoCentive](https://www.innocentive.com/)
-- [Microprediction](https://www.microprediction.com/python-1)
 
 ## Fun
 
@@ -1186,7 +1178,6 @@ Some data mining competition platforms
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 - [Data Science Cartoons](https://www.cartoonstock.com/directory/d/data_science.asp)
-- [Data Science: The XKCD Edition](https://davidlindelof.com/data-science-the-xkcd-edition/)
 
 ## Other Awesome Lists
 
